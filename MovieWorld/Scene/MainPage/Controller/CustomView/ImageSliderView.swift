@@ -35,7 +35,7 @@ class ImageSliderView: BaseView {
             self.timer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(self.changeImage), userInfo: nil, repeats: true)
         }
     }
-    
+     
     private func initCollectionView() {
         collectionViewHeight.constant = Globals.shared.screenWidth * 0.6826666667
         collectionView.delegate = self
