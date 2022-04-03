@@ -30,7 +30,7 @@ class ImageSliderView: BaseView {
         pageControl.numberOfPages = count
         self.movies = movies
         initCollectionView()
-        // If we want to make view auto scroll then we can comment out these 3 lines below. 
+        // If we want to make view auto scroll then we can comment out these 3 lines below.
         if count > 0 {
             self.timer = Timer.scheduledTimer(timeInterval: 1.0, target: self, selector: #selector(self.changeImage), userInfo: nil, repeats: true)
         }
