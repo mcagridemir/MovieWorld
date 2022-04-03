@@ -1,0 +1,14 @@
+//
+//  Staging.xcconfig
+//  MovieWorld
+//
+//  Created by Çağrı Demir on 2.04.2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BUNDLE_NAME = MovieWorld Stg
+API_BASE2 = api.themoviedb.org/
+API_KEY = 24ec0cfab2f1b8271b03081477fcd159
+PRODUCT_BUNDLE_IDENTIFIER = com.movieworld.iosstg

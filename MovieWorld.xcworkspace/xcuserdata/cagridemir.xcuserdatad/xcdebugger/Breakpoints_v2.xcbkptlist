@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "07701D8E-24AE-4B3A-9061-8F8DEBA44B08"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43F5934A-1986-46D9-80F9-2EC6A40D86EF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWorld/Scene/MainPage/ViewModel/MainPageViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "getUpcoming(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "43F5934A-1986-46D9-80F9-2EC6A40D86EF - cddc5eb5eda5754b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MovieWorld.MovieModel) -&gt; () in MovieWorld.MainPageViewModel.getUpcoming() -&gt; ()"
+                  moduleName = "MovieWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cagridemir/Desktop/iOSProjects/MovieWorld/MovieWorld/Scene/MainPage/ViewModel/MainPageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "282">
+               </Location>
+               <Location
+                  uuid = "43F5934A-1986-46D9-80F9-2EC6A40D86EF - cddc5eb5eda5754b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (MovieWorld.MovieModel) -&gt; () in MovieWorld.MainPageViewModel.getUpcoming() -&gt; ()"
+                  moduleName = "MovieWorld"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/cagridemir/Desktop/iOSProjects/MovieWorld/MovieWorld/Scene/MainPage/ViewModel/MainPageViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AC4F1FF2-9864-4547-8DED-7656DF8201DC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWorld/Scene/MainPage/Controller/CustomView/ImageSliderView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "configureUI(movies:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC980DB2-959A-4C3F-AD0A-DD0BAA28B6C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MovieWorldTests/MovieWorldTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "getMovie(id:success:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

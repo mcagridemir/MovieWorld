@@ -1,0 +1,15 @@
+//
+//  Development.xcconfig
+//  MovieWorld
+//
+//  Created by Çağrı Demir on 2.04.2022.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+BUNDLE_NAME = MovieWorld Dev
+API_BASE2 = api.themoviedb.org/
+API_KEY = 24ec0cfab2f1b8271b03081477fcd159
+IMAGE_BASE_URL = image.tmdb.org/t/p/w500
+PRODUCT_BUNDLE_IDENTIFIER = com.movieworld.iosdev
